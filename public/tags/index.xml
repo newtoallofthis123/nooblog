@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Noobing | With The Noob</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Noobing | With The Noob</description>
+    <image>
+      <url>https://pbs.twimg.com/profile_banners/1545036800603062273/1657213370/1080x360</url>
+      <link>https://pbs.twimg.com/profile_banners/1545036800603062273/1657213370/1080x360</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Nov 2022 12:34:08 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Sat, 12 Nov 2022 12:34:08 +0530</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social-media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Sat, 12 Nov 2022 12:34:08 +0530</pubDate>
+      
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/tags/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

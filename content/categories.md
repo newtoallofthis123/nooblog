@@ -1,1 +1,4 @@
-# Hello World
+---
+title: "Categories"
+layout: "categories"
+---

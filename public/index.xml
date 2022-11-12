@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Noobing | With The Noob</title>
+    <link>/</link>
+    <description>Recent content on Noobing | With The Noob</description>
+    <image>
+      <url>https://pbs.twimg.com/profile_banners/1545036800603062273/1657213370/1080x360</url>
+      <link>https://pbs.twimg.com/profile_banners/1545036800603062273/1657213370/1080x360</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 12 Nov 2022 12:34:08 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 15sec Trap</title>
+      <link>/posts/the-15sec-trap/</link>
+      <pubDate>Sat, 12 Nov 2022 12:34:08 +0530</pubDate>
+      
+      <guid>/posts/the-15sec-trap/</guid>
+      <description>Ever Wondered, Why we watch reels?</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>My First Post on Nooblog</description>
+    </item>
+    
+    
+    <item>
+      <title>Categories</title>
+      <link>/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>

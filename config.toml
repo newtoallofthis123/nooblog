@@ -14,7 +14,6 @@ disableXML = true
 minifyOutput = true
 
 [params]
-env = "production"
 title = "Noobing | With The Noob"
 description = "A Simple Blog I write to express my opinions about various stuff"
 keywords = [ "Blog", "NoobScience Blog", "NoobScience", "Noobing With The Noob", "noobing with the noob", "noobscience blog" ]
@@ -47,8 +46,8 @@ tocopen = false
   safari_pinned_tab = "https://newtoallofthis123.github.io/About/assets/icons/icon_round.ico"
 
   [params.label]
-  text = "Noobing"
-  icon = "/apple-touch-icon.png"
+  text = "The Nooblog"
+  icon = "/images/noobscience.png"
   iconHeight = 35
 
   [params.profileMode]
@@ -98,7 +97,7 @@ tocopen = false
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/newtoallofthis123/noobing/content"
+  URL = "https://github.com/newtoallofthis123/nooblog/tree/master/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
@@ -112,21 +111,21 @@ tocopen = false
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "archive"
+name = "📦 Archive"
+url = "/archive/"
 weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
+identifier = "search"
+name = "🔎 Search"
+url = "/search/"
 weight = 20
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "website"
+name = "Author"
+url = "https://newtoallofthis123.github.io/About"
 weight = 30
 
 [markup.highlight]
